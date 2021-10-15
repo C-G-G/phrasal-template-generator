@@ -26,6 +26,6 @@ switch (storyLetter) {
     break;
 
   case 'c' :
-    document.write('Jackson chose his ' + adjective + ', ' + colour + ' ' + creature + ' card and' + verb + ' it to the table knowing he won.');
+    document.write('Jackson chose his ' + adjective + ', ' + colour + ' ' + creature + ' card and ' + verb + ' it to the table knowing he won.');
     break;
 }
