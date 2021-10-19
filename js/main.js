@@ -4,7 +4,7 @@ var adjective;
 var verb;
 var storyLetter;
 
-alert("Let's make a story together!");
+alert('Let’s make a story together!');
 
 colour = prompt('A colour (orange, indigo, etc.)');
 
